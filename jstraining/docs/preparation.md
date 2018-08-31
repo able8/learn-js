@@ -47,4 +47,3 @@ $ git clone https://github.com/ruanyf/jstraining.git
 ```
 
 如果因为种种原因，Git 命令行无法使用，也可以直接下载压缩包，地址是 https://github.com/ruanyf/jstraining/archive/master.zip 。
-
